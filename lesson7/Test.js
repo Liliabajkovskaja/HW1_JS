@@ -1,0 +1,8 @@
+[
+    {
+    "url":"https://qauto2.forstudy.space/api"
+    },
+    {
+    "url":"https://qauto.forstudy.space/api"	
+    }
+]
